@@ -1,5 +1,3 @@
-server:
-  port: 9998
   
 logging:
   file: InfyGoBoot_Customer_MS.log
