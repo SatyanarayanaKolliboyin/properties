@@ -1,8 +1,5 @@
-spring:
-  application.name:InfyGoBoot_Customer_MS
 server:
-  servlet.context-path: /InfyGoBoot_Customer_MS
-  port: 8080
+  port: 9998
   
 logging:
   file: InfyGoBoot_Customer_MS.log
