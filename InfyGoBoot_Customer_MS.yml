@@ -1,0 +1,13 @@
+spring:
+  application.name:InfyGoBoot_Customer_MS
+server:
+  servlet.context-path: /InfyGoBoot_Customer_MS
+  port: 8080
+  
+logging:
+  file: InfyGoBoot_Customer_MS.log
+  level:
+    root: info
+    com.infoys.ars: info
+  pattern:
+    file: "%d{yyyy-MM-dd HH:mm:ss,SSS} %5p [%t] %c [%M] - %m%n"
