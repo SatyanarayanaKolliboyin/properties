@@ -1,4 +1,5 @@
-  
+server:
+  port: 59000  
 logging:
   file: InfyGoBoot_Customer_MS.log
   level:
