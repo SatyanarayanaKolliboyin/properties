@@ -1,5 +1,4 @@
-server:
-  port: 39000  
+ 
 logging:
   file: InfyGo_Flight_MS.log
   level:
