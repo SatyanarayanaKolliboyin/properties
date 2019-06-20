@@ -1,7 +1,7 @@
 server:
   port: 59000  
 logging:
-  file: InfyGoBoot_Customer_MS.log
+  file: InfyGo_Customer_MS.log
   level:
     root: info
     com.infoys.ars: info

@@ -1,7 +1,7 @@
 server:
   port: 49000  
 logging:
-  file: InfyGoBoot_Ticket_MS.log
+  file: InfyGo_Ticket_MS.log
   level:
     root: info
     com.infoys.ars: info

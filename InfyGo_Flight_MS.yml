@@ -1,7 +1,7 @@
 server:
   port: 39000  
 logging:
-  file: InfyGoBoot_Flight_MS.log
+  file: InfyGo_Flight_MS.log
   level:
     root: info
     com.infoys.ars: info
